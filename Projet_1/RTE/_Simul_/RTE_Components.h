@@ -3,7 +3,7 @@
  * Auto generated Run-Time-Environment Configuration File
  *      *** Do not modify ! ***
  *
- * Project: 'TP 1' 
+ * Project: 'Projet_1' 
  * Target:  'Simulé' 
  */
 
